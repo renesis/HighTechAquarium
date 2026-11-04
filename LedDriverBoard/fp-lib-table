@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "NLDD-700H") (type "KiCad") (uri "//PLD-DC/Home_Folder$/pvashi/Documents/KiCad/Led/NLDD-700H") (options "") (descr ""))
+)
